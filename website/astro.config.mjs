@@ -33,6 +33,7 @@ export default defineConfig({
         'A hands-on workshop exploring GitHub Copilot agents across VS Code, the Copilot CLI, the GitHub Copilot app, and the Copilot cloud agent.',
       locales: {
         root: { label: 'English', lang: 'en' },
+        'de-de': { label: 'Deutsch', lang: 'de-DE' },
         'es-es': { label: 'Español', lang: 'es-ES' },
         'ja-jp': { label: '日本語', lang: 'ja-JP' },
         'ko-kr': { label: '한국어', lang: 'ko-KR' },
